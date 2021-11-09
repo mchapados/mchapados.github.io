@@ -38,6 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # Test Video
 
-https://raw.githubusercontent.com/mchapados/mchapados.github.io/main/docs/how-to-login-to-azure-portal-en.mp4
 
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
+https://user-images.githubusercontent.com/46723794/140982876-2b15d816-8d83-4d0d-94fe-bb37f9a1082d.mp4
+
+
