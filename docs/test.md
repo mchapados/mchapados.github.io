@@ -10,8 +10,9 @@
 <details class="details-reset border rounded-2">
 
 <summary class="px-3 py-2 border-bottom">
-    <a href="#"><span aria-label="Video Transcript" class="m-1"><strong>How to Login to Azure Portal - Transcript<strong></span></a>
-</summary>
+    <span aria-label="Video Transcript" class="m-1"><a href="#"><strong>How to Login to Azure Portal - Transcript<strong></a></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
 Go to portal.azure.com in your web browser. Enter your credential and password. For internal Statcan users, use your cloud account. For external users, use your external account. The first time you login you will be prompted to enter your security questions. For multifactor authentication, you can use the Microsoft Authenticator app on your cell phone.
 
