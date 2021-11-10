@@ -10,7 +10,7 @@
 <details class="details-reset border rounded-2">
 
 <summary class="px-3 py-2 border-bottom">
-    <span aria-label="Video Transcript" class="m-1">Video Transcript</span>
+    <span aria-label="Video Transcript" class="m-1">**[How to Login to Azure Portal - Transcript](#)**</span>
     <span class="dropdown-caret"></span>
   </summary>
 
