@@ -9,4 +9,6 @@
 
 ### Video Transcript
 
+<details open="" class="details-reset border rounded-2">
 Go to portal.azure.com in your web browser. Enter your credential and password. For internal Statcan users, use your cloud account. For external users, use your external account. The first time you login you will be prompted to enter your security questions. For multifactor authentication, you can use the Microsoft Authenticator app on your cell phone.
+</details>
